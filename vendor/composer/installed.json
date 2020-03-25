@@ -1,0 +1,47 @@
+[
+    {
+        "name": "kaoken/markdown-it-php",
+        "version": "10.0.0.0",
+        "version_normalized": "10.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/kaoken/markdown-it-php.git",
+            "reference": "f62d533f2dc33f1cb226e76a6e559a1bc9fb5681"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/kaoken/markdown-it-php/zipball/f62d533f2dc33f1cb226e76a6e559a1bc9fb5681",
+            "reference": "f62d533f2dc33f1cb226e76a6e559a1bc9fb5681",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.3.6"
+        },
+        "require-dev": {
+            "symfony/yaml": "4.3.*"
+        },
+        "time": "2019-09-15T06:26:33+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Kaoken\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "kaoken",
+                "homepage": "https://github.com/kaoken/markdown-it-php"
+            }
+        ],
+        "description": "PHP version makdown-it",
+        "keywords": [
+            "markdown",
+            "markdown-it"
+        ]
+    }
+]

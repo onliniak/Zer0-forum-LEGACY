@@ -1,0 +1,5 @@
+{
+    "require": {
+        "kaoken/markdown-it-php": "^10.0"
+    }
+}
